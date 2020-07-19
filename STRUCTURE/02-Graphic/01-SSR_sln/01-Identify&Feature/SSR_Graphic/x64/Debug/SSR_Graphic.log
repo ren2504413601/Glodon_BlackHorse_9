@@ -1,0 +1,11 @@
+﻿  CvProgramFunctions.cpp
+f:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\glodon_blackhorse_9-master\structure\02-graphic\01-ssr_sln\01-identify&feature\cvprogramfunctions.cpp(54): warning C4101: “cPoint”: 未引用的局部变量
+f:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\glodon_blackhorse_9-master\structure\02-graphic\01-ssr_sln\01-identify&feature\cvprogramfunctions.cpp(54): warning C4101: “cPointG”: 未引用的局部变量
+f:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\glodon_blackhorse_9-master\structure\02-graphic\01-ssr_sln\01-identify&feature\cvprogramfunctions.cpp(54): warning C4101: “cPointB”: 未引用的局部变量
+f:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\glodon_blackhorse_9-master\structure\02-graphic\01-ssr_sln\01-identify&feature\cvprogramfunctions.cpp(54): warning C4101: “cPointR”: 未引用的局部变量
+f:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\glodon_blackhorse_9-master\structure\02-graphic\01-ssr_sln\01-identify&feature\cvprogramfunctions.cpp(151): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  EntryFun.cpp
+f:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\glodon_blackhorse_9-master\structure\02-graphic\01-ssr_sln\01-identify&feature\entryfun.cpp(84): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\glodon_blackhorse_9-master\structure\02-graphic\01-ssr_sln\01-identify&feature\entryfun.cpp(85): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  SSR_Graphic.vcxproj -> F:\任磊旧电脑\study\deep learning\比赛\广联达黑马赛\Glodon_BlackHorse_9-master\STRUCTURE\02-Graphic\01-SSR_sln\00-sln\x64\Debug\SSR_Graphic.exe
