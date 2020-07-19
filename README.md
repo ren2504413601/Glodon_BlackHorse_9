@@ -7,9 +7,9 @@
 - 文件结构
 
     Glodon_BlackHorse_9
-    │  readme.md
+    │  README.md
     │
-    ├─Results
+    ├─Results 检测结果
     │      afterKernelRes.png
     │      canneyRes.png
     │      mixRes.png
@@ -19,20 +19,20 @@
     │      result1.png
     │      true.png
     │
-    ├─SrcFigures
+    ├─SrcFigures 待识别裂纹图片
     │      001.jpg
     │      001.mat
     │      004.jpg
     │      004.mat
     │      README.md
     │
-    └─STRUCTURE
+    └─STRUCTURE 主要代码和安装包
         │  README.md
         │
-        ├─01-App
+        ├─01-App `Android App`代码和`app`
         │      README.md
         │
-        └─02-Graphic
+        └─02-Graphic `Opencv`图形开发代码
             │  README.md
             │
             └─01-SSR_sln
